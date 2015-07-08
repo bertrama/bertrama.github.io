@@ -1,0 +1,13 @@
+# Site settings
+title: Something Different
+author: Albert Bertram
+email: bertrama@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+  A weekly posting of ideas or projects I find interesting.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bertrama.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  bertrama
+
+# Build settings
+markdown: kramdown

@@ -2,7 +2,9 @@
 published: true
 date: 2015-08-24T16:20:00.000Z
 categories: tech automation
+layout: post
 ---
+
 
 
 ## Short series: Contest of Champions
